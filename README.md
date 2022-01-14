@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darrenjohnson1
+- 👋 Hi, I’m @Darrenjohnson1. I am an active student at the University of Central Florida.
 - 👀 I’m interested in Web Development and Photography.
 - 🌱 I’m currently learning Mobile Development, Server-Side Scripting and User Centered Design with intentions of persuing a front end development career and UX/UI design.
 - 💞️ I’m looking to collaborate on creative social projects.
