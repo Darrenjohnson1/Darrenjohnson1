@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darrenjohnson1.
+- 👋 Hi, I’m Darren Johnson.
 - 👀 I’m interested in Web Development, and Visual Arts including Graphic Design, Drawing and Photography.
 - 💞️ I’m looking to collaborate on creative social projects.
 - 📫 How to reach me : darrenjohnsondigital@gmail.com or DarrenDigital.com
